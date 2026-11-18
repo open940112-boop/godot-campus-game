@@ -1,0 +1,4 @@
+# Godot editor cache; do not commit
+.godot/
+.export/
+.import/
